@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="161.773mm" height="182.778mm" viewBox="3903.8 3441.9 636.9 719.6"><title></title><style type="text/css">
+*[layerid="1"] {stroke:#000000;fill:#000000;}
+*[layerid="2"] {stroke:#000000;fill:#000000;}
+*[layerid="3"] {stroke:#000000;fill:#000000;}
+*[layerid="4"] {stroke:#000000;fill:#000000;}
+*[layerid="5"] {stroke:#000000;fill:#000000;}
+*[layerid="6"] {stroke:#000000;fill:#000000;}
+*[layerid="7"] {stroke:#000000;fill:#000000;}
+*[layerid="8"] {stroke:#000000;fill:#000000;}
+*[layerid="9"] {stroke:#000000;fill:#000000;}
+*[layerid="10"] {stroke:#000000;fill:#000000;}
+*[layerid="11"] {stroke:#000000;fill:#000000;}
+*[layerid="12"] {stroke:#000000;fill:#000000;}
+*[layerid="13"] {stroke:#000000;fill:#000000;}
+*[layerid="14"] {stroke:#000000;fill:#000000;}
+*[layerid="15"] {stroke:#000000;fill:#000000;}
+*[layerid="19"] {stroke:#000000;fill:#000000;}
+*[layerid="21"] {stroke:#000000;fill:#000000;}
+*[layerid="22"] {stroke:#000000;fill:#000000;}
+*[layerid="23"] {stroke:#000000;fill:#000000;}
+*[layerid="24"] {stroke:#000000;fill:#000000;}
+*[layerid="25"] {stroke:#000000;fill:#000000;}
+*[layerid="26"] {stroke:#000000;fill:#000000;}
+*[layerid="27"] {stroke:#000000;fill:#000000;}
+*[layerid="28"] {stroke:#000000;fill:#000000;}
+*[layerid="29"] {stroke:#000000;fill:#000000;}
+*[layerid="30"] {stroke:#000000;fill:#000000;}
+*[layerid="31"] {stroke:#000000;fill:#000000;}
+*[layerid="32"] {stroke:#000000;fill:#000000;}
+*[layerid="33"] {stroke:#000000;fill:#000000;}
+*[layerid="34"] {stroke:#000000;fill:#000000;}
+*[layerid="35"] {stroke:#000000;fill:#000000;}
+*[layerid="36"] {stroke:#000000;fill:#000000;}
+*[layerid="37"] {stroke:#000000;fill:#000000;}
+*[layerid="38"] {stroke:#000000;fill:#000000;}
+*[layerid="39"] {stroke:#000000;fill:#000000;}
+*[layerid="40"] {stroke:#000000;fill:#000000;}
+*[layerid="41"] {stroke:#000000;fill:#000000;}
+*[layerid="42"] {stroke:#000000;fill:#000000;}
+*[layerid="43"] {stroke:#000000;fill:#000000;}
+*[layerid="44"] {stroke:#000000;fill:#000000;}
+*[layerid="45"] {stroke:#000000;fill:#000000;}
+*[layerid="46"] {stroke:#000000;fill:#000000;}
+*[layerid="47"] {stroke:#000000;fill:#000000;}
+*[layerid="48"] {stroke:#000000;fill:#000000;}
+*[layerid="49"] {stroke:#000000;fill:#000000;}
+*[layerid="50"] {stroke:#000000;fill:#000000;}
+*[layerid="51"] {stroke:#000000;fill:#000000;}
+*[layerid="52"] {stroke:#000000;fill:#000000;}
+*[layerid="99"] {stroke:#000000;fill:#000000;}
+*[layerid="100"] {stroke:#000000;fill:#000000;}
+*[layerid="101"] {stroke:#000000;fill:#000000;}
+*[layerid="Hole"] {stroke:#000000;fill:#000000;}
+*[layerid="DRCError"] {stroke:#000000;fill:#000000;}
+*[fill="none"] {fill: none;}
+*[stroke="none"] {stroke: none;}
+path, polyline, polygon, line {stroke-linecap:round;}
+g[c_partid="part_pad"][layerid="1"] ellipse:not([c_etype="pad_outer"]) {fill:#000000;}
+g[c_partid="part_pad"][layerid="1"] polygon:not([c_etype="pad_outer"]) {fill:#000000;}
+g[c_partid="part_pad"][layerid="1"] polyline:not([c_etype="pad_outer"]) {stroke:#000000;}
+g[c_partid="part_pad"][layerid="2"] ellipse:not([c_etype="pad_outer"]) {fill:#000000;}
+g[c_partid="part_pad"][layerid="2"] polygon:not([c_etype="pad_outer"]) {fill:#000000;}
+g[c_partid="part_pad"][layerid="2"] polyline:not([c_etype="pad_outer"]) {stroke:#000000;}
+g[c_partid="part_pad"][layerid="11"] ellipse:not([c_etype="pad_outer"]) {fill:#000000;}
+g[c_partid="part_pad"][layerid="11"] polygon:not([c_etype="pad_outer"]) {fill:#000000;}
+g[c_partid="part_pad"][layerid="11"] polyline:not([c_etype="pad_outer"]) {stroke:#000000;}
+g[c_partid="part_pad"][layerid="11"] circle {fill:#FFFFFF;}
+g[c_partid="part_pad"][layerid="11"] > polyline:nth-of-type(2) {stroke:#FFFFFF;}
+g[c_partid="part_pad"][layerid="11"][c_shape="ELLIPSE"]  polyline:nth-last-of-type(1) {stroke:#FFFFFF;}
+g[c_partid="part_pad"][layerid="11"][c_shape="RECT"]  polyline:nth-last-of-type(1) {stroke:#FFFFFF;}
+g[c_partid="part_pad"][layerid="11"][c_shape="POLYGON"]  polyline:nth-last-of-type(1) {stroke:#FFFFFF;}
+g[c_partid="part_via"] > * + circle, #gCurParts g[c_partid="part_via"] > * + circle {fill:#FFFFFF;}
+g[c_partid="part_pad"] > polygon[c_etype="pad_outer"], #gCurParts g[c_partid="part_pad"] > polygon[c_etype="pad_outer"] {stroke-linejoin: round;stroke-miterlimit: 100;}
+g[c_partid="part_hole"] > circle {fill: #FFFFFF;}path, polyline, polygon {stroke-linejoin:round;}
+rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges;}
+</style>
+<rect x="3903.8" y="3441.9" width="636.9" height="719.6" fill="#FFFFFF" stroke="none"/><g c_partid="part_via" c_etype="pinpart" c_shapetype="group" net="" c_origin="4019.016,3573" layerid="11" id="gge37572" locked="0" solderexpansion=""><circle cx="4019.016" cy="3573" r="1.2205" stroke-width="0" c_etype="pad_shell"/><circle cx="4019.016" cy="3573" r="0.6102"  stroke-width="0" c_etype="pad_hole"/></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4049.528,3680.283" layerid="11" id="gge37419" locked="0" ><circle cx="4049.528" cy="3680.283" r="10.0394"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4049.528,3649.772" layerid="11" id="gge37422" locked="0" ><circle cx="4049.528" cy="3649.772" r="10.0394"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4149.922,3681.268" layerid="11" id="gge37425" locked="0" ><circle cx="4149.922" cy="3681.268" r="10.0394"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4150.906,3649.772" layerid="11" id="gge37428" locked="0" ><circle cx="4150.906" cy="3649.772" r="10.0394"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4251.299,3649.772" layerid="11" id="gge37431" locked="0" ><circle cx="4251.299" cy="3649.772" r="10.0394"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4251.299,3681.268" layerid="11" id="gge37434" locked="0" ><circle cx="4251.299" cy="3681.268" r="10.0394"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4351.693,3681.268" layerid="11" id="gge37437" locked="0" ><circle cx="4351.693" cy="3681.268" r="10.0394"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4351.693,3649.772" layerid="11" id="gge37440" locked="0" ><circle cx="4351.693" cy="3649.772" r="10.0394"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4250.314,3782.646" layerid="11" id="gge37443" locked="0" ><circle cx="4250.314" cy="3782.646" r="12.0079"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4148.938,3782.647" layerid="11" id="gge37446" locked="0" ><circle cx="4148.938" cy="3782.647" r="12.0079"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4149.922,3717.686" layerid="11" id="gge37449" locked="0" ><circle cx="4149.922" cy="3717.686" r="13.9764"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4049.528,3718.669" layerid="11" id="gge37452" locked="0" ><circle cx="4049.528" cy="3718.669" r="13.9764"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4049.528,3613.356" layerid="11" id="gge37455" locked="0" ><circle cx="4049.528" cy="3613.356" r="13.9764"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4149.922,3613.356" layerid="11" id="gge37458" locked="0" ><circle cx="4149.922" cy="3613.356" r="13.9764"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4250.315,3613.356" layerid="11" id="gge37461" locked="0" ><circle cx="4250.315" cy="3613.356" r="13.9764"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4250.315,3717.686" layerid="11" id="gge37464" locked="0" ><circle cx="4250.315" cy="3717.686" r="13.9764"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4351.693,3717.685" layerid="11" id="gge37467" locked="0" ><circle cx="4351.693" cy="3717.685" r="13.9764"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4351.693,3613.354" layerid="11" id="gge37470" locked="0" ><circle cx="4351.693" cy="3613.354" r="13.9764"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4306.417,3824.97" layerid="11" id="gge37473" locked="0" ><circle cx="4306.417" cy="3824.97" r="12.0079"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4355.63,3824.968" layerid="11" id="gge37476" locked="0" ><circle cx="4355.63" cy="3824.968" r="12.0079"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4088.898,3824.966" layerid="11" id="gge37479" locked="0" ><circle cx="4088.898" cy="3824.966" r="12.0079"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4042.638,3824.965" layerid="11" id="gge37482" locked="0" ><circle cx="4042.638" cy="3824.965" r="12.0079"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4042.638,3972.605" layerid="11" id="gge37485" locked="0" ><circle cx="4042.638" cy="3972.605" r="12.0079"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4088.898,3972.607" layerid="11" id="gge37488" locked="0" ><circle cx="4088.898" cy="3972.607" r="12.0079"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4042.638,3898.787" layerid="11" id="gge37491" locked="0" ><circle cx="4042.638" cy="3898.787" r="12.0079"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4089.132,3898.789" layerid="11" id="gge37494" locked="0" ><circle cx="4089.132" cy="3898.789" r="12.0079"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4136.141,3898.787" layerid="11" id="gge37497" locked="0" ><circle cx="4136.141" cy="3898.787" r="12.0079"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4183.386,3898.789" layerid="11" id="gge37500" locked="0" ><circle cx="4183.386" cy="3898.789" r="12.0079"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4306.417,3898.789" layerid="11" id="gge37503" locked="0" ><circle cx="4306.417" cy="3898.789" r="12.0079"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4353.661,3898.789" layerid="11" id="gge37506" locked="0" ><circle cx="4353.661" cy="3898.789" r="12.0079"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4353.661,3972.607" layerid="11" id="gge37509" locked="0" ><circle cx="4353.661" cy="3972.607" r="12.0079"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4305.433,3972.606" layerid="11" id="gge37512" locked="0" ><circle cx="4305.433" cy="3972.606" r="12.0079"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4049.331,3548.394" layerid="11" id="gge37753" locked="0" ><circle cx="4049.331" cy="3548.394" r="6.2992"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4349.33,3548.394" layerid="11" id="gge37798" locked="0" ><circle cx="4349.33" cy="3548.394" r="6.2992"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4049.331,4030.676" layerid="11" id="gge37813" locked="0" ><circle cx="4049.331" cy="4030.676" r="6.2992"  stroke-width="1" fill-opacity="0" /></g><g c_partid="part_hole" c_etype="pinpart" c_shapetype="group" c_origin="4349.33,4030.676" layerid="11" id="gge37828" locked="0" ><circle cx="4349.33" cy="4030.676" r="6.2992"  stroke-width="1" fill-opacity="0" /></g><polyline points="4020 3536.5828 4379.9993 3536.5828 4379.9993 4042.4873 4020 4042.4873 4020 3536.5828" stroke-width="1"  stroke-linecap="round" fill="none" layerid="10" net="" id="gge37633" locked="0" /></svg>
